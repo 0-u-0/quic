@@ -1,4 +1,4 @@
-module github.com/pion/quic
+module github.com/0-u-0/quic
 
 go 1.14
 
